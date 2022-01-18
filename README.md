@@ -1,4 +1,4 @@
-# Cart Pole
+# Mountain Car
 
 This code is an example of working in the Open AI gym environment 'MountainCar-v0' via a DQN network in PyTorch. 
 
